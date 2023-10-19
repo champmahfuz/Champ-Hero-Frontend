@@ -22,7 +22,7 @@ An Ed-Teach Website for Course and Learning Service
 
 [Backend Code](https://github.com/champmahfuz/Champ-Hero-Backend)
 
-[Video Link](https://learn-next-js-v1xq.vercel.app).
+[Video Link](https://drive.google.com/file/d/1ZEt_La-5C5o1BgCoNKDKaPjiRB4qZ9LG/view?usp=share_link)
 
 # demo user
 
