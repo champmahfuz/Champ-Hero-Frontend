@@ -18,6 +18,8 @@ An Ed-Teach Website for Course and Learning Service
 𝑭𝒓𝒐𝒏𝒕 𝑬𝒏𝒅: Next JS, TypeScript, And Design, Tailwind CSS, Redux Toolkit, RTK Query, Firebase, React Hook Form</br>
 𝑩𝒂𝒄𝒌 𝑬𝒏𝒅: TypeScript, Node Js, Express Js, MongoDB, Mongoose. </br>
 
-### `Live link`
+### `Live link`[https://champ-hero.vercel.app/]
 
 ### `Back End`
+
+https://github.com/champmahfuz/Champ-Hero-Backend

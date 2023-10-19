@@ -41,7 +41,7 @@ const Banner = () => {
             you achieve your goals.
           </p>
           <Link className="flex mb-4" href="/courses">
-            <button className="inline-block mt-2 px-6 py-2.5 bg-red-500 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-red-600">
+            <button className="inline-block mt-2 px-6 py-2.5 bg-blue-500 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-600">
               See All Courses
             </button>
           </Link>
