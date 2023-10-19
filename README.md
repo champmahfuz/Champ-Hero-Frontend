@@ -1,6 +1,6 @@
 # Champ Hero
 
-An Ed-Teach Website for Course and Learning Service
+An online educational platfrom for Course and Learning Service
 
 ## Project feature
 
