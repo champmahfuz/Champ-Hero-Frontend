@@ -26,5 +26,5 @@ An Ed-Teach Website for Course and Learning Service
 
 # demo user
 
-user:demo12@gmail.com
+user: test@gmail.com
 pass:123456
