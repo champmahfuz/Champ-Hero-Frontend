@@ -26,7 +26,7 @@ const Banner = () => {
           >
             Champ Hero
             <br />
-            Build your Career!
+            Build your Career Now!
           </h1>
           <p
             style={{
@@ -42,7 +42,7 @@ const Banner = () => {
           </p>
           <Link className="flex mb-4" href="/courses">
             <button className="inline-block mt-2 px-6 py-2.5 bg-blue-500 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-600">
-              See All Courses
+              See All Courses Champ Hero
             </button>
           </Link>
         </Col>
