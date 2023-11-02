@@ -38,7 +38,7 @@ const Courses = () => {
             financial planning course. Duration: 10 weeks
           </p>
         </div>
-        <div className="grid grid-cols-1 gap-6 lg:grid-cols-3 md:grid-cols-2 cursor-pointer">
+        <div className="grid grid-cols-1 gap-6 lg:grid-cols-3 md:grid-cols-2 cursor-pointer ">
           {content}
         </div>
       </div>

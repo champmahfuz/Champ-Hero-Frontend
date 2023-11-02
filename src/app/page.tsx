@@ -1,6 +1,6 @@
 "use client";
 import About from "@/components/Home/About";
-import Banner from "@/components/Home/Banner";
+// import Banner from "@/components/Home/Banner";
 import Courses from "@/components/Course/Courses";
 import Faqs from "@/components/Home/Features";
 import FooterPage from "@/components/Home/Footer";
@@ -14,6 +14,7 @@ import { setLoading, setUser } from "@/redux/features/userSlice";
 import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "@/components/Auth/Firebase";
 import { Metadata } from "next";
+import BannerV1 from "@/components/Home/BannerV1";
 
 export default function Home() {
   const dispatch = useAppDispatch();
@@ -32,7 +33,8 @@ export default function Home() {
   return (
     <div>
       <Nav />
-      <Banner />
+      {/* <Banner /> */}
+      <BannerV1 />
       <Courses />
       <About />
       <Reviews />
