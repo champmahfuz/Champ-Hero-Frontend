@@ -38,7 +38,7 @@ export default function Home() {
       <Courses />
       <About />
       <Reviews />
-      <Faqs />
+      {/* <Faqs /> */}
       <Newsletter />
       <Counters />
       <FooterPage />

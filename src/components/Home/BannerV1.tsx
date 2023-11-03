@@ -1,6 +1,8 @@
 import Image from "next/image";
 import styles from "./Banner.module.css";
 import Hero from "public/hero.png";
+import { Button } from "antd";
+// import { Button } from 'antd';
 // import Button from "@/components/Button/Button";
 
 export default function BannerV1() {
@@ -16,7 +18,6 @@ export default function BannerV1() {
             global tech industry.
           </p>
           <button>See Our Works</button>
-
           {/* <Button url="/portfolio" text="See Our Works" /> */}
         </div>
         <div className={styles.item}>
