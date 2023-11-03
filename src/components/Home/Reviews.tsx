@@ -45,7 +45,7 @@ const Reviews = () => {
               {reviewers.map((review, i) => (
                 <div
                   key={i}
-                  className="relative mb-10 border-b-4 border-blue-500"
+                  className="p-10 relative mb-10 rounded-lg border-t-4 border-b-4 border-r-4 border-l-4"
                 >
                   <div className="z-20 pt-8 pb-5">
                     <svg
